@@ -1,0 +1,53 @@
+{
+	"type": "Collection",
+	"properties": {
+		"title": {
+			"name": "title",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "title",
+			"order": 0
+		},
+		"date": {
+			"name": "date",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "date",
+			"order": 1
+		},
+		"description": {
+			"name": "description",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "description",
+			"order": 2
+		},
+		"location": {
+			"name": "location",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "location",
+			"order": 3
+		},
+		"startHour": {
+			"name": "startHour",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "startHour",
+			"order": 4
+		},
+		"endHour": {
+			"name": "endHour",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "endHour",
+			"order": 5
+		}
+	}
+}
